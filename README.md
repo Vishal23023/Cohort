@@ -19,4 +19,14 @@
 - Purpose: To practice building a functional and visually appealing contact form layout.
 - Local Setup: Clone the repo, navigate to the ContactForm directory, and open index.html in your browser.
 
+## Coffee Project
+- Description: A simple coffee store UI designed using HTML and CSS. The layout features a clean, user-friendly interface.
+- Technologies: HTML, CSS
+- Purpose: To practice building a functional and visually appealing store layout.
+- Local Setup: Clone the repo, navigate to the ContactForm directory, and open index.html in your browser.
 
+## CSS Grid Layout Project
+- Description: This project is a practice exercise to explore and understand CSS Grid. It includes a responsive layout demonstrating various grid properties such as grid-template-areas, grid-gap, fr units, and media queries. 
+Technologies: HTML, CSS
+- Purpose: The goal was to enhance my skills in modern CSS layout techniques.
+- Local Setup: Clone the repo, navigate to the ContactForm directory, and open index.html in your browser.
